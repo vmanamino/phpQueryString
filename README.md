@@ -1,0 +1,2 @@
+"This is very good! The password function works well, and the email validation is correct. A built-in function called filter_var() exists and is also available for email validation.
+You even have two separate error flag values, so you can explain exactly what's off about the email. Really nice job on this."
